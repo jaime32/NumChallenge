@@ -1,0 +1,33 @@
+.welcome{
+    font-size: 40px;
+    text-align: center;
+    font-family: "sans-serif";
+}
+
+#list1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#list2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: #c9eaf8;
+}
+
+#text{
+    position: fixed;
+    left: 34%;
+    top: 45%;
+}
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
